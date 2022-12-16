@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dadu diaz/1.0.0": {
+        "runtime": {
+          "dadu diaz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dadu diaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

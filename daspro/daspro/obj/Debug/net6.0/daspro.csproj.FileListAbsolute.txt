@@ -1,0 +1,15 @@
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.csproj.AssemblyReference.cache
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.AssemblyInfo.cs
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\daspro\bin\Debug\net6.0\daspro.exe
+c:\Users\user\Desktop\daspro\bin\Debug\net6.0\daspro.deps.json
+c:\Users\user\Desktop\daspro\bin\Debug\net6.0\daspro.runtimeconfig.json
+c:\Users\user\Desktop\daspro\bin\Debug\net6.0\daspro.dll
+c:\Users\user\Desktop\daspro\bin\Debug\net6.0\daspro.pdb
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.dll
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\refint\daspro.dll
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.pdb
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\daspro.genruntimeconfig.cache
+c:\Users\user\Desktop\daspro\obj\Debug\net6.0\ref\daspro.dll

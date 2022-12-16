@@ -1,0 +1,16 @@
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\diaz 3.exe
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\diaz 3.deps.json
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\diaz 3.runtimeconfig.json
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\diaz 3.runtimeconfig.dev.json
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\diaz 3.dll
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\ref\diaz 3.dll
+C:\Users\afiff\OneDrive\Desktop\diaz 3\bin\Debug\net5.0\diaz 3.pdb
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.csproj.AssemblyReference.cache
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.AssemblyInfoInputs.cache
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.AssemblyInfo.cs
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.csproj.CoreCompileInputs.cache
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.dll
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\ref\diaz 3.dll
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.pdb
+C:\Users\afiff\OneDrive\Desktop\diaz 3\obj\Debug\net5.0\diaz 3.genruntimeconfig.cache

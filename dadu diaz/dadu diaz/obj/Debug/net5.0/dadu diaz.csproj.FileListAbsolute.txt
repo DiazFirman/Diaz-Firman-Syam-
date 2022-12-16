@@ -1,0 +1,16 @@
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\dadu diaz.exe
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\dadu diaz.deps.json
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\dadu diaz.runtimeconfig.json
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\dadu diaz.runtimeconfig.dev.json
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\dadu diaz.dll
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\ref\dadu diaz.dll
+C:\Users\62812\Desktop\dadu diaz\bin\Debug\net5.0\dadu diaz.pdb
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.csproj.AssemblyReference.cache
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.AssemblyInfoInputs.cache
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.AssemblyInfo.cs
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.csproj.CoreCompileInputs.cache
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.dll
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\ref\dadu diaz.dll
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.pdb
+C:\Users\62812\Desktop\dadu diaz\obj\Debug\net5.0\dadu diaz.genruntimeconfig.cache
